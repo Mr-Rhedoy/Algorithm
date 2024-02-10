@@ -36,7 +36,7 @@ void bubble_sort(int array[],int n)
             scanf("%d",&n);
 
             int array[n];
-            printf("Enter the numbers Desenging order= ");
+            printf("Enter the numbers  to add= ");
             for(int i=0; i<n; i++)
             {
                 scanf("%d",&array[i]);
